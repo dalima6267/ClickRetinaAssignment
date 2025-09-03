@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">ClickRetinaAssignment</string>
     <string name="brunopham">brunopham</string>
+    <string name="bruno_pham">Bruno Pham</string>
+    <string name="da_nang_vietnam">Da Nang, Vietnam</string>
+    <string name="https_brunopham_com">https://brunopham.com</string>
+    <string name="_220">220</string>
+    <string name="followers">Followers</string>
+    <string name="_150">150</string>
+    <string name="following">Following</string>
+    <string name="_0">0</string>
+    <string name="shots">Shots</string>
+    <string name="collections">Collections</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="retry">Retry</string>
 </resources>
