@@ -41,5 +41,4 @@ The app follows **Material Design** principles with proper error handling and re
 
 ## 🚀 Getting Started
 1. Clone the repository  
-   ```bash
-https://github.com/dalima6267/ClickRetinaAssignment.git
+   ```https://github.com/dalima6267/ClickRetinaAssignment.git```
