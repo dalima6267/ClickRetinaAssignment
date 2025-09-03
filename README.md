@@ -35,7 +35,7 @@ The app follows **Material Design** principles with proper error handling and re
 ---
 
 ## 📸 Screenshots
-*(Add your app screenshots here)*  
+ <img src="https://github.com/user-attachments/assets/eb80410c-e38d-4a3e-940a-6dbb025a9680" alt="image" width="300" height="600">
 
 ---
 
